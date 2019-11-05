@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/registroLabos/static/css/main.8263e3f6.chunk.css",
+    "main.js": "/registroLabos/static/js/main.4ff8bd95.chunk.js",
+    "main.js.map": "/registroLabos/static/js/main.4ff8bd95.chunk.js.map",
+    "runtime-main.js": "/registroLabos/static/js/runtime-main.f254067d.js",
+    "runtime-main.js.map": "/registroLabos/static/js/runtime-main.f254067d.js.map",
+    "static/js/2.02861fc9.chunk.js": "/registroLabos/static/js/2.02861fc9.chunk.js",
+    "static/js/2.02861fc9.chunk.js.map": "/registroLabos/static/js/2.02861fc9.chunk.js.map",
+    "index.html": "/registroLabos/index.html",
+    "precache-manifest.59e468fd273d77961f2bd005d2ed81a2.js": "/registroLabos/precache-manifest.59e468fd273d77961f2bd005d2ed81a2.js",
+    "service-worker.js": "/registroLabos/service-worker.js",
+    "static/css/main.8263e3f6.chunk.css.map": "/registroLabos/static/css/main.8263e3f6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f254067d.js",
+    "static/js/2.02861fc9.chunk.js",
+    "static/css/main.8263e3f6.chunk.css",
+    "static/js/main.4ff8bd95.chunk.js"
+  ]
+}
